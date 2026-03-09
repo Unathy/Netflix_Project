@@ -1,7 +1,7 @@
 #Netflix data project:
 # This project focuses on cleaning data and making the dataset  ready for analysis
 
-#DATA SAUCE
+#DATA SOURCE
 Kaggle
 [download here](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies)
 
