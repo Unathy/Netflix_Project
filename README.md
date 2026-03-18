@@ -28,7 +28,7 @@ Kaggle
   U.S is the dominant country in this chart which might be due to the fact that Netflix's origins is U.S where 
   the co-founders are located.
 # Movies vs Tv Shows
-![Movies vs Tv Shows Chart](visuals/bar_chart.png)
+![Movies vs Tv Shows Chart](visuals/Movies vs Tvshow.png)
 ##Insight
 Movies are produced more than Tv Shows on Netflix .
 ## Files added in the repository:
