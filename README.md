@@ -7,6 +7,7 @@ Kaggle
 
 ## Tools used:
 -Phython
+-Matplotlib
 -Pandas
 -Jupyter Notebook
 
@@ -18,7 +19,7 @@ Kaggle
 5. Removed duplicates.
 6. Formatted "Release_Date" as a string since months were initially in words , to handle month names easily.
 7.Checked errors and saved the document.
-
+#Visualizations
 #Top 10 Countries that contribute the most content to Netflix
 
 ![Top Countries Chart](top_countries.png)
@@ -26,7 +27,10 @@ Kaggle
   This shows that United States,India,Unkown country and United Kingdom contribute the most content on Netflix.
   U.S is the dominant country in this chart which might be due to the fact that Netflix's origins is U.S where 
   the co-founders are located.
-
+# Movies vs Tv Shows
+![Movies vs Tv Shows Chart](Movies vs Tvshow.png)
+##Insight
+Movies are produced more than Tv Shows on Netflix .
 ## Files added in the repository:
 -Netflix Dataset.csv (Original Data)
 -Clean_Netflix.csv(Clean data)
